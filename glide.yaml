@@ -12,3 +12,4 @@ import:
   subpackages:
   - websocket
 - package: github.com/radovskyb/watcher
+- package: gopkg.in/alexcesaro/statsd.v2
